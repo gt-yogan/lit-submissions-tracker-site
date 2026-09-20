@@ -1,0 +1,1617 @@
+{
+  "kind": "marginalia-catalog",
+  "schema_version": 1,
+  "generated_at": "2026-09-20T07:33:15.885355+00:00",
+  "journals": [
+    {
+      "id": "poetry",
+      "name": "Poetry",
+      "official_url": "https://www.poetryfoundation.org/poetrymagazine/submit",
+      "opportunities": [
+        {
+          "id": "7f663cfe29d08b5d5a446657",
+          "title": "Poetry",
+          "genres": [
+            "poetry"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": "free",
+          "fee_kind": "unknown",
+          "length_limits": "2–6 poems, up to 10 pages total.",
+          "formatting": "Submit poems as a single document. Preferred file types are doc, docx, rtf, txt, or wpf; PDFs may also be uploaded with one of those file types.",
+          "eligibility": "Previously unpublished work only. Poems in all languages are welcome; for poems not primarily in English, include a translation of the non-English portions. Only human-written poetry and prose are published.",
+          "theme": null,
+          "payment": "$500 per poem.",
+          "simultaneous_submissions": "Open to simultaneous submissions; notify Poetry immediately if work is accepted elsewhere.",
+          "reprints": "Previously unpublished work only. Writing that has appeared online for any reason, including social media posts, is considered previously published.",
+          "submission_url": null,
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Submit to Poetry",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Guidelines for Poetry",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "fee",
+              "url": "https://www.poetryfoundation.org/poetrymagazine/submit",
+              "excerpt": "Submitting to Poetry is free.",
+              "retrieved_at": "2026-09-20T07:25:11.809167+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Please follow the guidelines below to submit 2–6 poems (up to 10 pages total).",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Save your poems as a single document. We prefer doc, docx, rtf, txt, or wpf files as they work better for us if work is accepted. If you prefer to upload a pdf to ensure formatting is preserved, please also upload your poems as one of the other file types.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "We welcome poems in all languages.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "We only publish human-written poetry and prose.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "payment",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Our current rate is $500 per poem.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Poetry is open to simultaneous submissions, but let us know immediately if work is accepted elsewhere by adding a message to your submission specifying the work that is no longer available.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "We consider only previously unpublished work. Writing that has appeared online for any reason, including social media posts, is considered to have been previously published and should not be submitted.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            }
+          ],
+          "conflicts": [
+            "status"
+          ]
+        },
+        {
+          "id": "47f1afb0e49d0a0508b9c567",
+          "title": "Translation",
+          "genres": [
+            "translation",
+            "poetry"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": "free",
+          "fee_kind": "unknown",
+          "length_limits": "No more than 7 poems, for a total of 15 pages maximum, including the originals.",
+          "formatting": "Include both the original poem and the translation.",
+          "eligibility": "Previously unpublished translations only. Translations into English of poems originally composed in all languages are welcome. Only human-written poetry and prose are published.",
+          "theme": null,
+          "payment": "Payment will be $250 flat rate for accepted translations. The translator is paid for the translation, and the original author or rights holder is paid for the originals.",
+          "simultaneous_submissions": "Open to simultaneous submissions; notify Poetry immediately if work is accepted elsewhere.",
+          "reprints": "Previously unpublished translations only. Translations that have appeared online for any reason, including social media posts, are considered previously published.",
+          "submission_url": null,
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Submit to Translation",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Guidelines for Translation",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "fee",
+              "url": "https://www.poetryfoundation.org/poetrymagazine/submit",
+              "excerpt": "Submitting to Poetry is free.",
+              "retrieved_at": "2026-09-20T07:25:11.809167+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "For translations, please submit no more than 7 poems, for a total of 15 pages maximum (including the originals).",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Please include both the original poem and your translation.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "We consider only previously unpublished translations.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "We welcome translations into English of poems originally composed in all languages.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "payment",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "For translations, we pay the translator for the translation, and the original author or rights holder for the originals. For accepted translations, we will request a one-page translator's note. We will give you guidance for what to include. Payment will be $250 flat rate.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Poetry is open to simultaneous submissions, but let us know immediately if work is accepted elsewhere by adding a message to your submission specifying the work that is no longer available.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Translations that have appeared online for any reason, including social media posts, are considered to have been previously published and should not be submitted.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            }
+          ],
+          "conflicts": [
+            "status"
+          ]
+        },
+        {
+          "id": "40381206013b761648c7a795",
+          "title": "Visual Poetry",
+          "genres": [
+            "visual poetry"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": "free",
+          "fee_kind": "unknown",
+          "length_limits": "Up to 4 poems, up to 10 pages total. Poetry rarely publishes visual poems more than 4–5 pages in length.",
+          "formatting": "Save poems as a single document and upload it through the submission form. For non-English poems, include a translation of the non-English portions. For collaborations, include the collaborator's name and 20-word bio.",
+          "eligibility": "Previously unpublished work only. Poems in all languages are welcome. Only human-written poetry and prose are published.",
+          "theme": null,
+          "payment": "$500 per poem.",
+          "simultaneous_submissions": "Open to simultaneous submissions; notify Poetry immediately if work is accepted elsewhere.",
+          "reprints": "Previously unpublished work only. Writing that has appeared online for any reason, including social media posts, is considered previously published.",
+          "submission_url": null,
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Submit to Visual Poetry",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Guidelines for Visual Poetry",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "status",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "We close for submissions annually from June 15 through September 15.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "fee",
+              "url": "https://www.poetryfoundation.org/poetrymagazine/submit",
+              "excerpt": "Submitting to Poetry is free.",
+              "retrieved_at": "2026-09-20T07:25:11.809167+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Please submit up to 4 poems (up to 10 pages total) for consideration, following the guidelines below.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Please note that we rarely publish visual poems more than 4-5 pages in length.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "First save your poems as a single document.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "We consider only previously unpublished work.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "payment",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Our current rate is $500 per poem.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Poetry is open to simultaneous submissions, but let us know immediately if work is accepted elsewhere by adding a message to your submission specifying the work that is no longer available.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Writing that has appeared online for any reason, including social media posts, is considered to have been previously published and should not be submitted.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            }
+          ],
+          "conflicts": [
+            "status"
+          ]
+        },
+        {
+          "id": "849cddf6de732c8002b8bd4d",
+          "title": "Video Poems",
+          "genres": [
+            "video poetry"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": "free",
+          "fee_kind": "unknown",
+          "length_limits": "Up to 4 poems; upload up to four videos.",
+          "formatting": "Upload the video submission and a written copy of the text. If components are performed by another artist, include their name and bio.",
+          "eligibility": "Previously unpublished work only. Video submissions may be recordings of spoken word pieces, ASL poems, or mixed-media pieces. Only human-written poetry and prose are published.",
+          "theme": null,
+          "payment": "$600 flat rate for video poems.",
+          "simultaneous_submissions": "Open to simultaneous submissions; notify Poetry immediately if work is accepted elsewhere.",
+          "reprints": "Previously unpublished work only. Writing that has appeared online for any reason, including social media posts, is considered previously published.",
+          "submission_url": null,
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Submit to Video Poems",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Guidelines for Video Poems",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "status",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "We close for submissions annually from June 15 through September 15.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "fee",
+              "url": "https://www.poetryfoundation.org/poetrymagazine/submit",
+              "excerpt": "Submitting to Poetry is free.",
+              "retrieved_at": "2026-09-20T07:25:11.809167+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Please submit up to 4 poems for consideration, following these guidelines:",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Upload your video submission, up to four videos.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "In the second file field, please also include a written copy of your text, as both would be published if accepted for publication.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "These can be recordings of spoken word pieces, ASL poems, or mixed-media pieces (i.e. poetry read alongside dance).",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "payment",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "We pay a $600 flat rate for video poems.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Poetry is open to simultaneous submissions, but let us know immediately if work is accepted elsewhere by adding a message to your submission specifying the work that is no longer available.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "We consider only previously unpublished work. Writing that has appeared online for any reason, including social media posts, is considered to have been previously published and should not be submitted.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            }
+          ],
+          "conflicts": [
+            "status"
+          ]
+        },
+        {
+          "id": "75a8fb43161957a87b77e0f7",
+          "title": "Prose (essays about poetry - but not poems, prose poems, or fiction)",
+          "genres": [
+            "prose",
+            "essays about poetry"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": "free",
+          "fee_kind": "unknown",
+          "length_limits": "Typical essay length is about 1,500 - 2,500 words; maximum of ten pages.",
+          "formatting": "Submit one submission at a time per category. If the work is longer than ten pages, note that in the cover letter.",
+          "eligibility": "Poetry magazine welcomes personal and idiosyncratic prose pertaining to poets and poetry. This is not a form for straightforward literary criticism or academic prose. Previously unpublished work only; only human-written poetry and prose are published.",
+          "theme": "Essays connecting poetry with the wider culture; essays resurfacing a poet or shedding new light on a poet or poem through personal narrative; immersive dispatches or literary reportage; creative personal essays on writing poems or poetic lineages; and roundtable discussions or conversations among poets.",
+          "payment": "$400 per published page in print for prose.",
+          "simultaneous_submissions": "Open to simultaneous submissions; notify Poetry immediately if work is accepted elsewhere.",
+          "reprints": "Previously unpublished work only. Writing that has appeared online for any reason, including social media posts, is considered previously published.",
+          "submission_url": null,
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Submit to Prose (essays about poetry - but not poems, prose poems, or fiction)",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Guidelines for Prose (essays about poetry - but not poems, prose poems, or fiction)",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "status",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "We close for submissions annually from June 15 through September 15.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "fee",
+              "url": "https://www.poetryfoundation.org/poetrymagazine/submit",
+              "excerpt": "Submitting to Poetry is free.",
+              "retrieved_at": "2026-09-20T07:25:11.809167+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Our typical essay length is about 1,500 - 2,500 words. As a maximum, please submit no more than ten pages; if the work is longer than that, please note that in the cover letter and we will ask to see more if we are interested.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Please send only one submission at a time per category, and wait until you hear back from us before uploading a new submission.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Poetry magazine welcomes personal and idiosyncratic prose pertaining to poets and poetry.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "This is not a form for straightforward literary criticism or academic prose.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "theme",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Essays that explore unique or unexpected connections between poetry and the wider culture (pop culture, politics, internet culture, art, etc.).",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "theme",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Roundtable discussions or conversations between a group of poets on a specific topic related to poetry or the craft of poetry.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "payment",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Our current rate is $400 per published page in print for prose.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "Poetry is open to simultaneous submissions, but let us know immediately if work is accepted elsewhere by adding a message to your submission specifying the work that is no longer available.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://poetry.submittable.com/submit",
+              "excerpt": "We consider only previously unpublished work. Writing that has appeared online for any reason, including social media posts, is considered to have been previously published and should not be submitted.",
+              "retrieved_at": "2026-09-20T07:26:06.260026+00:00"
+            }
+          ],
+          "conflicts": [
+            "status"
+          ]
+        }
+      ],
+      "lastAttempt": "2026-09-20T07:25:10.465070+00:00",
+      "lastSuccess": null,
+      "stale": true,
+      "staleOpportunityIds": [
+        "7f663cfe29d08b5d5a446657",
+        "47f1afb0e49d0a0508b9c567",
+        "40381206013b761648c7a795",
+        "849cddf6de732c8002b8bd4d",
+        "75a8fb43161957a87b77e0f7"
+      ],
+      "outcome": "partial",
+      "warnings": [
+        "The supplied pages state an annual closure period but do not provide a dated current opening or closing deadline; status is therefore unknown for each opportunity.",
+        "The general Poetry page says response time is up to one year, while the submission manager says up to or within eight months; response-time information was not included in the structured fields.",
+        "The submission manager contains repeated copies of the same guidelines.",
+        "Poetry: unsupported or conflicting fee_kind",
+        "Poetry: unsupported or conflicting submission_url",
+        "Translation: unsupported or conflicting fee_kind",
+        "Translation: unsupported or conflicting submission_url",
+        "Visual Poetry: unsupported or conflicting fee_kind",
+        "Visual Poetry: unsupported or conflicting submission_url",
+        "Video Poems: unsupported or conflicting fee_kind",
+        "Video Poems: unsupported or conflicting submission_url",
+        "Prose (essays about poetry - but not poems, prose poems, or fiction): unsupported or conflicting fee_kind",
+        "Prose (essays about poetry - but not poems, prose poems, or fiction): unsupported or conflicting submission_url"
+      ],
+      "history": []
+    },
+    {
+      "id": "the-adroit-journal",
+      "name": "The Adroit Journal",
+      "official_url": "https://theadroitjournal.org/about/submissions/",
+      "opportunities": [
+        {
+          "id": "2f0a3093505348fc43a2f2a5",
+          "title": "The Adroit Journal — Fiction",
+          "genres": [
+            "fiction"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": null,
+          "fee_kind": "unknown",
+          "length_limits": null,
+          "formatting": "Please include a word count at the top of each submission. No AI-generated or AI-assisted work will be considered.",
+          "eligibility": null,
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": "The journal accepts simultaneous submissions when open, provided they are identified as such and withdrawn promptly if accepted elsewhere.",
+          "reprints": "The journal asks for First North American Rights; following publication, all rights revert to the writer, who must credit The Adroit Journal as the place the work first appeared.",
+          "submission_url": "https://adroit.submittable.com/submit/3345/prose-fiction",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Prose/Fiction Ends on Guidelines for Prose/Fiction Guidelines",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Fiction - up to 3 pieces at a time, 6,000 words maximum (across pieces).",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please include a word count at the top of each submission. Please no multiple submissions. Additional submissions will be returned unread. No AI-generated or AI-assisted work will be considered or even tolerated.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "When we are open to submissions, please note that we are open to simultaneous submissions (so long as you classify them as such & promptly let us know if they’re accepted elsewhere ).",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "we ask for First North American Rights to publish writing. Following publication, all rights revert back to the writer; we only ask that you credit The Adroit Journal as the place your work first appeared.",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "SUBMIT to Prose/Fiction",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "5d1b930674e840d89d63bdac",
+          "title": "The Adroit Journal — Creative Non-Fiction",
+          "genres": [
+            "creative nonfiction"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": null,
+          "fee_kind": "unknown",
+          "length_limits": null,
+          "formatting": "Please include a word count at the top of each submission. No AI-generated or AI-assisted work will be considered.",
+          "eligibility": null,
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": "The journal accepts simultaneous submissions when open, provided they are identified as such and withdrawn promptly if accepted elsewhere.",
+          "reprints": "The journal asks for First North American Rights; following publication, all rights revert to the writer, who must credit The Adroit Journal as the place the work first appeared.",
+          "submission_url": "https://adroit.submittable.com/submit/255554/prose-creative-non-fiction",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Prose/Creative Non-Fiction Ends on Guidelines for Prose/Creative Non-Fiction Guidelines",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Creative Nonfiction - up to 3 pieces at a time, 6,000 words maximum (across pieces).",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please include a word count at the top of each submission. Please no multiple submissions. Additional submissions will be returned unread. No AI-generated or AI-assisted work will be considered or even tolerated.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "When we are open to submissions, please note that we are open to simultaneous submissions (so long as you classify them as such & promptly let us know if they’re accepted elsewhere ).",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "we ask for First North American Rights to publish writing. Following publication, all rights revert back to the writer; we only ask that you credit The Adroit Journal as the place your work first appeared.",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "SUBMIT to Prose/Creative Non-Fiction",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "e21c8aa138e1faf9340a3ee7",
+          "title": "The Adroit Journal — Poetry",
+          "genres": [
+            "poetry"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": null,
+          "fee_kind": "unknown",
+          "length_limits": "Up to 6 poems in one document; no length limits.",
+          "formatting": "Multiple poems must be submitted in one document. No AI-generated or AI-assisted work will be considered.",
+          "eligibility": null,
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": "The journal accepts simultaneous submissions when open, provided they are identified as such and withdrawn promptly if accepted elsewhere.",
+          "reprints": "The journal asks for First North American Rights; following publication, all rights revert to the writer, who must credit The Adroit Journal as the place the work first appeared.",
+          "submission_url": "https://adroit.submittable.com/submit/3226/poetry",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Poetry Ends on Guidelines for Poetry Guidelines",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Poetry - up to 6 poems at a time, no length limits.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please submit up to six poems in one document via our Submittable page (adroit.submittable.com).",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "N.B. PLEASE SUBMIT MULTIPLE POEMS IN ONE DOCUMENT. Happy submitting, and thanks in advance!",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "When we are open to submissions, please note that we are open to simultaneous submissions (so long as you classify them as such & promptly let us know if they’re accepted elsewhere ).",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "we ask for First North American Rights to publish writing. Following publication, all rights revert back to the writer; we only ask that you credit The Adroit Journal as the place your work first appeared.",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "SUBMIT to Poetry",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "f175b0a3bd7b84c5e8426911",
+          "title": "The Adroit Journal — Translations",
+          "genres": [],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": null,
+          "fee_kind": "unknown",
+          "length_limits": "Up to 6 poems in one document, or up to 3 prose pieces; prose may be up to 6,000 words per entry. No length limit for poetry.",
+          "formatting": "Translations must include a translator’s note, author biography, publication summary, explanation of how the translator learned about the work, pagination, and word count. The translator must secure English-language publication rights. No self-translations or AI-generated or AI-assisted work.",
+          "eligibility": null,
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": "The journal accepts simultaneous submissions when open, provided they are identified as such and withdrawn promptly if accepted elsewhere.",
+          "reprints": null,
+          "submission_url": "https://adroit.submittable.com/submit/321620/translations?step=submission",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Translations Guidelines for Translations Guidelines SUBMIT to Translations",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please submit up to three prose pieces OR up to six poems in one document via our Submittable page ( adroit.submittable.com ). Prose submissions may be up to 6,000 words per entry of between 1-3 pieces. There is no length limit for poetry.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Your translation should be accompanied by a translator’s note explaining the significance of the work and providing a brief biography of the author, followed by a summary of your previous publications and a few words about how you came to learn about the work.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please paginate your submission and include a word count at the top.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "You must secure the right to publish your translation before submitting it to us.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "When we are open to submissions, please note that we are open to simultaneous submissions (so long as you classify them as such & promptly let us know if they’re accepted elsewhere ).",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "SUBMIT to Translations",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "7a28ca1cecf272050ac8711b",
+          "title": "The Adroit Journal — Art/Photography",
+          "genres": [
+            "art",
+            "photography"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": null,
+          "fee_kind": "unknown",
+          "length_limits": "Up to 6 full-color images; intentionally greyscale images are also accepted.",
+          "formatting": "Submit .jpg or .png files as high-quality as possible. Submitted art should not be previously published. No AI-generated or AI-assisted work will be considered.",
+          "eligibility": null,
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": "Simultaneous art submissions are accepted, but submissions should be withdrawn promptly if accepted elsewhere. No more than two submissions per genre per reading period.",
+          "reprints": null,
+          "submission_url": "https://adroit.submittable.com/submit/3566/art-photography",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Art/Photography Ends on Guidelines for Art/Photography Guidelines",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Art - up to 6 pieces at a time, both black/white & color accepted.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please submit UP TO SIX full-color images (unless intentionally greyscale in the first place) via our submission manager",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please make all image submissions .jpg or .png, and as high-quality as possible.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Submitted art may have previously been recognized for an award, but should not be previously published.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "No AI-generated or AI-assisted work will be considered or even tolerated. We employ AI detection tools!",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Also, we DO accept simultaneous art submissions, but expect you to withdraw your submission(s) if accepted elsewhere promptly after the acceptance elsewhere.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please submit no more than two (2) times per genre per reading period. Additional submissions will be returned unread.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "SUBMIT to Art/Photography",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "ebeeab1bd75e90208ced24f8",
+          "title": "The Adroit Journal — Interviews & Reviews",
+          "genres": [
+            "interviews",
+            "reviews"
+          ],
+          "status": "open",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": null,
+          "fee_kind": "unknown",
+          "length_limits": null,
+          "formatting": "Please consult the style guide for reviews and/or the style guide for interviews before submitting.",
+          "eligibility": "Completed reviews and interviews are accepted for consideration on the blog; the journal currently prefers reviews.",
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": null,
+          "reprints": null,
+          "submission_url": "https://adroit.submittable.com/submit/146172/interviews-reviews",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Interviews & Reviews Guidelines for Interviews & Reviews Guidelines SUBMIT to Interviews & Reviews",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Interviews & Reviews -- we are currently accepting completed reviews and interviews for consideration on our blog.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "status",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "we are currently accepting completed reviews and interviews for consideration on our blog.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "At this time, we have a preference for reviews.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "IMPORTANT: please consult our style guide for reviews and/or our style guide for interviews prior to submission.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "SUBMIT to Interviews & Reviews",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            }
+          ],
+          "conflicts": []
+        }
+      ],
+      "lastAttempt": "2026-09-20T07:25:10.484465+00:00",
+      "lastSuccess": null,
+      "stale": true,
+      "staleOpportunityIds": [
+        "2f0a3093505348fc43a2f2a5",
+        "5d1b930674e840d89d63bdac",
+        "e21c8aa138e1faf9340a3ee7",
+        "f175b0a3bd7b84c5e8426911",
+        "7a28ca1cecf272050ac8711b",
+        "ebeeab1bd75e90208ced24f8"
+      ],
+      "outcome": "partial",
+      "warnings": [
+        "No explicit opening dates or deadlines were provided for the creative submission categories; their status is therefore unknown rather than inferred from the page’s conditional wording.",
+        "The source includes separate category-specific Submittable rules and general website guidelines; no themed call was identified.",
+        "The Reader in Translation entry is a volunteer position application rather than a creative-work submission.",
+        "The Adroit Journal — Fiction: unsupported or conflicting length_limits",
+        "The Adroit Journal — Fiction: unsupported or conflicting payment",
+        "The Adroit Journal — Creative Non-Fiction: unsupported or conflicting length_limits",
+        "The Adroit Journal — Creative Non-Fiction: unsupported or conflicting payment",
+        "The Adroit Journal — Poetry: unsupported or conflicting payment",
+        "The Adroit Journal — Translations: unsupported or conflicting genres",
+        "The Adroit Journal — Translations: unsupported or conflicting eligibility",
+        "The Adroit Journal — Art/Photography: unsupported or conflicting payment",
+        "A later refresh was rate-limited; these are the previous source-backed results.",
+        "Non-publication applications were excluded from this catalog."
+      ],
+      "history": []
+    },
+    {
+      "id": "gulf-coast",
+      "name": "Gulf Coast",
+      "official_url": "https://gulfcoastmag.org/submit/",
+      "opportunities": [
+        {
+          "id": "8f38a2e5aa70a69734f2707f",
+          "title": "Gulf Coast Print Edition Fiction",
+          "genres": [
+            "fiction"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": "March 1",
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": "$3.00",
+          "fee_kind": "paid",
+          "length_limits": "Stories should be typed, double-spaced, and paginated. Submissions over 7,000 words are not read.",
+          "formatting": "Include name, address, phone number, and e-mail address on the first page; title on subsequent pages.",
+          "eligibility": "Previously unpublished works. Multiple submissions in the same genre are not accepted.",
+          "theme": null,
+          "payment": "$50 per page for fiction in print issues.",
+          "simultaneous_submissions": "Allowed; inform Gulf Coast promptly if the piece is accepted elsewhere.",
+          "reprints": "Previously unpublished works only.",
+          "submission_url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/login?returnUrl=%2Fsubmit%2F46467%2Fprint-edition-fiction",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit to Print Edition Fiction",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Print Edition Fiction",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "status",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Gulf Coast's Regular Print Submissions Period is Open from September 1 through March 1",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "deadline_text",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Open from September 1 through March 1",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "fee",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Print Edition Fiction Ends on $3.00 $3.00",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "fee_kind",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Gulf Coast's Reading Fee",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "We are unable to read submissions of more than 7,000 words.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Stories should be typed, double-spaced, and paginated, with your name, address, phone number, and e-mail address on the first page, title on subsequent pages.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit only previously unpublished works.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "payment",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Gulf Coast is now able to pay $50 per page for poetry, fiction, and nonfiction.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Simultaneous submissions are allowed, but please inform us promptly if your piece is accepted elsewhere.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Submit only previously unpublished works.",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit to Print Edition Fiction",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "cf9ca18d27f84fbde5708062",
+          "title": "Gulf Coast Print Edition Poetry",
+          "genres": [
+            "poetry"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": "March 1",
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": "$3.00",
+          "fee_kind": "unknown",
+          "length_limits": "Up to 5 poems per submission.",
+          "formatting": "Type poems with name, address, phone number, and e-mail address in the header on each page.",
+          "eligibility": "Previously unpublished works. Multiple submissions in the same genre are not accepted.",
+          "theme": null,
+          "payment": "$50 per page for poetry in print issues.",
+          "simultaneous_submissions": "Allowed; inform Gulf Coast promptly if the piece is accepted elsewhere.",
+          "reprints": "Previously unpublished works only.",
+          "submission_url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/login?returnUrl=%2Fsubmit%2F46477%2Fprint-edition-poetry",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit to Print Edition Poetry",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Print Edition Poetry",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "status",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Gulf Coast's Regular Print Submissions Period is Open from September 1 through March 1",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "deadline_text",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Open from September 1 through March 1",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "fee",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Print Edition Poetry Ends on $3.00 $3.00",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Poems (up to 5 per submission)",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "should be typed with your name, address, phone number, and e-mail address in the header on each page.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit only previously unpublished works.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "payment",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Gulf Coast is now able to pay $50 per page for poetry, fiction, and nonfiction.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Simultaneous submissions are allowed, but please inform us promptly if your piece is accepted elsewhere.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Submit only previously unpublished works.",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit to Print Edition Poetry",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "19c0cecb1b489fd0572331ec",
+          "title": "Gulf Coast Print Edition Nonfiction or Lyric Essay",
+          "genres": [
+            "nonfiction",
+            "lyric essay"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": "March 1",
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": "$3.00",
+          "fee_kind": "unknown",
+          "length_limits": "Submissions over 7,000 words are not read.",
+          "formatting": "Stories and essays should be typed, double-spaced, and paginated, with name, address, phone number, and e-mail address on the first page; title on subsequent pages.",
+          "eligibility": "Previously unpublished works. Multiple submissions in the same genre are not accepted.",
+          "theme": null,
+          "payment": "$50 per page for nonfiction in print issues.",
+          "simultaneous_submissions": "Allowed; inform Gulf Coast promptly if the piece is accepted elsewhere.",
+          "reprints": "Previously unpublished works only.",
+          "submission_url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/login?returnUrl=%2Fsubmit%2F46478%2Fprint-edition-nonfiction-or-lyric-essay",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit to Print Edition Nonfiction or Lyric Essay",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Print Edition Nonfiction or Lyric Essay",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "status",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Gulf Coast's Regular Print Submissions Period is Open from September 1 through March 1",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "deadline_text",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Open from September 1 through March 1",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "fee",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Print Edition Nonfiction or Lyric Essay Ends on $3.00 $3.00",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "We are unable to read submissions of more than 7,000 words.",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Stories and essays should be typed, double-spaced, and paginated",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit only previously unpublished works.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "payment",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Gulf Coast is now able to pay $50 per page for poetry, fiction, and nonfiction.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Simultaneous submissions are allowed, but please inform us promptly if your piece is accepted elsewhere.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Submit only previously unpublished works.",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit to Print Edition Nonfiction or Lyric Essay",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "9eb63801256e33252c79498a",
+          "title": "Gulf Coast Print Edition Translations",
+          "genres": [
+            "poetry translation",
+            "prose translation"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": "March 1",
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": "$3.00",
+          "fee_kind": "unknown",
+          "length_limits": "Poetry: up to 5 poems per submission. Prose: up to 20 pages double-spaced.",
+          "formatting": "Include a brief bio of the author and indicate whether the translator has been given permissions. For poetry, Gulf Coast encourages including the departing language.",
+          "eligibility": "Previously unpublished works. Multiple submissions in the same genre are not accepted.",
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": "Allowed; inform Gulf Coast promptly if the piece is accepted elsewhere.",
+          "reprints": "Previously unpublished works only.",
+          "submission_url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/login?returnUrl=%2Fsubmit%2F46480%2Fprint-edition-translations",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit to Print Edition Translations",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Translations of poetry (up to 5 poems per submission) and prose (up to twenty pages double-spaced)",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "status",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Gulf Coast's Regular Print Submissions Period is Open from September 1 through March 1",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "deadline_text",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Open from September 1 through March 1",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "fee",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Print Edition Translations Ends on $3.00 $3.00",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Translations of poetry (up to 5 poems per submission) and prose (up to twenty pages double-spaced)",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "should include a brief bio of the author and indicate whether the translator has been given permissions.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit only previously unpublished works.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Simultaneous submissions are allowed, but please inform us promptly if your piece is accepted elsewhere.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Submit only previously unpublished works.",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit to Print Edition Translations",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "7492790f8f5068bbf0bc4439",
+          "title": "Gulf Coast Print Edition Interviews or Reviews",
+          "genres": [
+            "interviews",
+            "book reviews"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": "March 1",
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": "$3.00",
+          "fee_kind": "unknown",
+          "length_limits": null,
+          "formatting": "Typed, double-spaced, and paginated; include name, address, phone number, and e-mail address on the first page; title on subsequent pages.",
+          "eligibility": "Unsolicited reviews are accepted and occasionally published; reviews of literary collections or anthologies are considered.",
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": "Allowed; inform Gulf Coast promptly if the piece is accepted elsewhere.",
+          "reprints": null,
+          "submission_url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/login?returnUrl=%2Fsubmit%2F46482%2Fprint-edition-interviews-or-reviews",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit to Print Edition Interviews or Reviews",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Interviews and reviews of literary collections or anthologies",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "status",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Gulf Coast's Regular Print Submissions Period is Open from September 1 through March 1",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "deadline_text",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Open from September 1 through March 1",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "fee",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Print Edition Interviews or Reviews Ends on $3.00 $3.00",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "All reviews and interviews should be typed, double-spaced, and paginated",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "unsolicited reviews are accepted and occasionally published",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Simultaneous submissions are allowed, but please inform us promptly if your piece is accepted elsewhere.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit to Print Edition Interviews or Reviews",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "a7443f6388dd7e2b3ab0c5a6",
+          "title": "Gulf Coast Print Edition Critical Art Writing",
+          "genres": [
+            "critical art writing"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": "March 1",
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": "$3.00",
+          "fee_kind": "unknown",
+          "length_limits": "Submissions over 7,000 words are not read.",
+          "formatting": "Essays should be typed, double-spaced, and paginated, with name, address, phone number, and e-mail address on the first page; title on subsequent pages.",
+          "eligibility": "Previously unpublished works. Multiple submissions in the same genre are not accepted.",
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": "Allowed; inform Gulf Coast promptly if the piece is accepted elsewhere.",
+          "reprints": "Previously unpublished works only.",
+          "submission_url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/login?returnUrl=%2Fsubmit%2F79576%2Fprint-edition-critical-art-writing",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit to Print Edition Critical Art Writing",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Gulf Coast is now accepting submissions of critical art writing.",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "status",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Gulf Coast's Regular Print Submissions Period is Open from September 1 through March 1",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "deadline_text",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Open from September 1 through March 1",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "fee",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Print Edition Critical Art Writing Ends on $3.00 $3.00",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "We are unable to read submissions of more than 7,000 words.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Critical Art Writing essays should be typed, double-spaced, and paginated",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit only previously unpublished works.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Simultaneous submissions are allowed, but please inform us promptly if your piece is accepted elsewhere.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Submit only previously unpublished works.",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Submit to Print Edition Critical Art Writing",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "8a60f48cc460943db09f096e",
+          "title": "Gulf Coast Online Exclusives",
+          "genres": [],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": "December 21st to January 25th",
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": null,
+          "fee_kind": "unknown",
+          "length_limits": "Prose: Gulf Coast is less likely to accept submissions over 3,000 words. Poetry: up to 5 poems per submission. Translated prose: ideally less than 3,000 words per piece.",
+          "formatting": "Prose should be typed, double-spaced, and paginated, with name, address, phone number, and e-mail address on the first page; title on subsequent pages. Poetry should include contact information in the header on each page.",
+          "eligibility": null,
+          "theme": null,
+          "payment": "$75 for poetry and $100 for prose in Online Exclusives.",
+          "simultaneous_submissions": null,
+          "reprints": null,
+          "submission_url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "For Online Exclusives:",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "status",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Gulf Coast will be closed to submissions for Online Exclusives from December 21st to January 25th.",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "deadline_text",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "closed to submissions for Online Exclusives from December 21st to January 25th",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "We are less likely to accept submissions of more than 3,000 words.",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "Prose: Typed, double-spaced, and paginated.",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "payment",
+              "url": "https://gulfcoastmag.org/submit/",
+              "excerpt": "In our Online Exclusives we guarantee $75 for poetry and $100 for prose.",
+              "retrieved_at": "2026-09-20T07:29:36.743152+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://gulfcoastajournalofliteratureandfinearts.submittable.com/submit",
+              "excerpt": "Gulf Coast Journal Submission Manager",
+              "retrieved_at": "2026-09-20T07:29:49.180773+00:00"
+            }
+          ],
+          "conflicts": []
+        }
+      ],
+      "lastAttempt": "2026-09-20T07:29:35.242319+00:00",
+      "lastSuccess": null,
+      "stale": true,
+      "staleOpportunityIds": [
+        "8f38a2e5aa70a69734f2707f",
+        "cf9ca18d27f84fbde5708062",
+        "19c0cecb1b489fd0572331ec",
+        "9eb63801256e33252c79498a",
+        "7492790f8f5068bbf0bc4439",
+        "a7443f6388dd7e2b3ab0c5a6",
+        "8a60f48cc460943db09f096e"
+      ],
+      "outcome": "partial",
+      "warnings": [
+        "Contest opportunities were excluded.",
+        "The regular print window is given without an explicit year; under the extraction rules, current status remains unknown and no normalized date is assigned.",
+        "The Online Exclusives page states a recurring closure period without an explicit year; current status remains unknown.",
+        "The supplied pages do not establish a timezone.",
+        "Gulf Coast Print Edition Poetry: unsupported or conflicting fee_kind",
+        "Gulf Coast Print Edition Nonfiction or Lyric Essay: unsupported or conflicting fee_kind",
+        "Gulf Coast Print Edition Translations: unsupported or conflicting fee_kind",
+        "Gulf Coast Print Edition Interviews or Reviews: unsupported or conflicting fee_kind",
+        "Gulf Coast Print Edition Interviews or Reviews: unsupported or conflicting length_limits",
+        "Gulf Coast Print Edition Critical Art Writing: unsupported or conflicting fee_kind",
+        "Gulf Coast Online Exclusives: unsupported or conflicting genres"
+      ],
+      "history": []
+    }
+  ]
+}
