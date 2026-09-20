@@ -1,7 +1,7 @@
 {
   "kind": "marginalia-catalog",
   "schema_version": 1,
-  "generated_at": "2026-09-20T07:33:15.885355+00:00",
+  "generated_at": "2026-09-20T07:41:40.208655+00:00",
   "journals": [
     {
       "id": "poetry",
@@ -510,440 +510,81 @@
       "history": []
     },
     {
-      "id": "the-adroit-journal",
-      "name": "The Adroit Journal",
-      "official_url": "https://theadroitjournal.org/about/submissions/",
-      "opportunities": [
-        {
-          "id": "2f0a3093505348fc43a2f2a5",
-          "title": "The Adroit Journal — Fiction",
-          "genres": [
-            "fiction"
-          ],
-          "status": "unknown",
-          "opening_date": null,
-          "deadline": null,
-          "deadline_text": null,
-          "date_precision": "unspecified",
-          "timezone": null,
-          "fee": null,
-          "fee_kind": "unknown",
-          "length_limits": null,
-          "formatting": "Please include a word count at the top of each submission. No AI-generated or AI-assisted work will be considered.",
-          "eligibility": null,
-          "theme": null,
-          "payment": null,
-          "simultaneous_submissions": "The journal accepts simultaneous submissions when open, provided they are identified as such and withdrawn promptly if accepted elsewhere.",
-          "reprints": "The journal asks for First North American Rights; following publication, all rights revert to the writer, who must credit The Adroit Journal as the place the work first appeared.",
-          "submission_url": "https://adroit.submittable.com/submit/3345/prose-fiction",
-          "evidence": [
-            {
-              "field": "title",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Prose/Fiction Ends on Guidelines for Prose/Fiction Guidelines",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "genres",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Fiction - up to 3 pieces at a time, 6,000 words maximum (across pieces).",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "formatting",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Please include a word count at the top of each submission. Please no multiple submissions. Additional submissions will be returned unread. No AI-generated or AI-assisted work will be considered or even tolerated.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "simultaneous_submissions",
-              "url": "https://theadroitjournal.org/about/submissions/",
-              "excerpt": "When we are open to submissions, please note that we are open to simultaneous submissions (so long as you classify them as such & promptly let us know if they’re accepted elsewhere ).",
-              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
-            },
-            {
-              "field": "reprints",
-              "url": "https://theadroitjournal.org/about/submissions/",
-              "excerpt": "we ask for First North American Rights to publish writing. Following publication, all rights revert back to the writer; we only ask that you credit The Adroit Journal as the place your work first appeared.",
-              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
-            },
-            {
-              "field": "submission_url",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "SUBMIT to Prose/Fiction",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            }
-          ],
-          "conflicts": []
-        },
-        {
-          "id": "5d1b930674e840d89d63bdac",
-          "title": "The Adroit Journal — Creative Non-Fiction",
-          "genres": [
-            "creative nonfiction"
-          ],
-          "status": "unknown",
-          "opening_date": null,
-          "deadline": null,
-          "deadline_text": null,
-          "date_precision": "unspecified",
-          "timezone": null,
-          "fee": null,
-          "fee_kind": "unknown",
-          "length_limits": null,
-          "formatting": "Please include a word count at the top of each submission. No AI-generated or AI-assisted work will be considered.",
-          "eligibility": null,
-          "theme": null,
-          "payment": null,
-          "simultaneous_submissions": "The journal accepts simultaneous submissions when open, provided they are identified as such and withdrawn promptly if accepted elsewhere.",
-          "reprints": "The journal asks for First North American Rights; following publication, all rights revert to the writer, who must credit The Adroit Journal as the place the work first appeared.",
-          "submission_url": "https://adroit.submittable.com/submit/255554/prose-creative-non-fiction",
-          "evidence": [
-            {
-              "field": "title",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Prose/Creative Non-Fiction Ends on Guidelines for Prose/Creative Non-Fiction Guidelines",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "genres",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Creative Nonfiction - up to 3 pieces at a time, 6,000 words maximum (across pieces).",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "formatting",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Please include a word count at the top of each submission. Please no multiple submissions. Additional submissions will be returned unread. No AI-generated or AI-assisted work will be considered or even tolerated.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "simultaneous_submissions",
-              "url": "https://theadroitjournal.org/about/submissions/",
-              "excerpt": "When we are open to submissions, please note that we are open to simultaneous submissions (so long as you classify them as such & promptly let us know if they’re accepted elsewhere ).",
-              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
-            },
-            {
-              "field": "reprints",
-              "url": "https://theadroitjournal.org/about/submissions/",
-              "excerpt": "we ask for First North American Rights to publish writing. Following publication, all rights revert back to the writer; we only ask that you credit The Adroit Journal as the place your work first appeared.",
-              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
-            },
-            {
-              "field": "submission_url",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "SUBMIT to Prose/Creative Non-Fiction",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            }
-          ],
-          "conflicts": []
-        },
-        {
-          "id": "e21c8aa138e1faf9340a3ee7",
-          "title": "The Adroit Journal — Poetry",
-          "genres": [
-            "poetry"
-          ],
-          "status": "unknown",
-          "opening_date": null,
-          "deadline": null,
-          "deadline_text": null,
-          "date_precision": "unspecified",
-          "timezone": null,
-          "fee": null,
-          "fee_kind": "unknown",
-          "length_limits": "Up to 6 poems in one document; no length limits.",
-          "formatting": "Multiple poems must be submitted in one document. No AI-generated or AI-assisted work will be considered.",
-          "eligibility": null,
-          "theme": null,
-          "payment": null,
-          "simultaneous_submissions": "The journal accepts simultaneous submissions when open, provided they are identified as such and withdrawn promptly if accepted elsewhere.",
-          "reprints": "The journal asks for First North American Rights; following publication, all rights revert to the writer, who must credit The Adroit Journal as the place the work first appeared.",
-          "submission_url": "https://adroit.submittable.com/submit/3226/poetry",
-          "evidence": [
-            {
-              "field": "title",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Poetry Ends on Guidelines for Poetry Guidelines",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "genres",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Poetry - up to 6 poems at a time, no length limits.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "length_limits",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Please submit up to six poems in one document via our Submittable page (adroit.submittable.com).",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "formatting",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "N.B. PLEASE SUBMIT MULTIPLE POEMS IN ONE DOCUMENT. Happy submitting, and thanks in advance!",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "simultaneous_submissions",
-              "url": "https://theadroitjournal.org/about/submissions/",
-              "excerpt": "When we are open to submissions, please note that we are open to simultaneous submissions (so long as you classify them as such & promptly let us know if they’re accepted elsewhere ).",
-              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
-            },
-            {
-              "field": "reprints",
-              "url": "https://theadroitjournal.org/about/submissions/",
-              "excerpt": "we ask for First North American Rights to publish writing. Following publication, all rights revert back to the writer; we only ask that you credit The Adroit Journal as the place your work first appeared.",
-              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
-            },
-            {
-              "field": "submission_url",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "SUBMIT to Poetry",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            }
-          ],
-          "conflicts": []
-        },
-        {
-          "id": "f175b0a3bd7b84c5e8426911",
-          "title": "The Adroit Journal — Translations",
-          "genres": [],
-          "status": "unknown",
-          "opening_date": null,
-          "deadline": null,
-          "deadline_text": null,
-          "date_precision": "unspecified",
-          "timezone": null,
-          "fee": null,
-          "fee_kind": "unknown",
-          "length_limits": "Up to 6 poems in one document, or up to 3 prose pieces; prose may be up to 6,000 words per entry. No length limit for poetry.",
-          "formatting": "Translations must include a translator’s note, author biography, publication summary, explanation of how the translator learned about the work, pagination, and word count. The translator must secure English-language publication rights. No self-translations or AI-generated or AI-assisted work.",
-          "eligibility": null,
-          "theme": null,
-          "payment": null,
-          "simultaneous_submissions": "The journal accepts simultaneous submissions when open, provided they are identified as such and withdrawn promptly if accepted elsewhere.",
-          "reprints": null,
-          "submission_url": "https://adroit.submittable.com/submit/321620/translations?step=submission",
-          "evidence": [
-            {
-              "field": "title",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Translations Guidelines for Translations Guidelines SUBMIT to Translations",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "length_limits",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Please submit up to three prose pieces OR up to six poems in one document via our Submittable page ( adroit.submittable.com ). Prose submissions may be up to 6,000 words per entry of between 1-3 pieces. There is no length limit for poetry.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "formatting",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Your translation should be accompanied by a translator’s note explaining the significance of the work and providing a brief biography of the author, followed by a summary of your previous publications and a few words about how you came to learn about the work.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "formatting",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Please paginate your submission and include a word count at the top.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "formatting",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "You must secure the right to publish your translation before submitting it to us.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "simultaneous_submissions",
-              "url": "https://theadroitjournal.org/about/submissions/",
-              "excerpt": "When we are open to submissions, please note that we are open to simultaneous submissions (so long as you classify them as such & promptly let us know if they’re accepted elsewhere ).",
-              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
-            },
-            {
-              "field": "submission_url",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "SUBMIT to Translations",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            }
-          ],
-          "conflicts": []
-        },
-        {
-          "id": "7a28ca1cecf272050ac8711b",
-          "title": "The Adroit Journal — Art/Photography",
-          "genres": [
-            "art",
-            "photography"
-          ],
-          "status": "unknown",
-          "opening_date": null,
-          "deadline": null,
-          "deadline_text": null,
-          "date_precision": "unspecified",
-          "timezone": null,
-          "fee": null,
-          "fee_kind": "unknown",
-          "length_limits": "Up to 6 full-color images; intentionally greyscale images are also accepted.",
-          "formatting": "Submit .jpg or .png files as high-quality as possible. Submitted art should not be previously published. No AI-generated or AI-assisted work will be considered.",
-          "eligibility": null,
-          "theme": null,
-          "payment": null,
-          "simultaneous_submissions": "Simultaneous art submissions are accepted, but submissions should be withdrawn promptly if accepted elsewhere. No more than two submissions per genre per reading period.",
-          "reprints": null,
-          "submission_url": "https://adroit.submittable.com/submit/3566/art-photography",
-          "evidence": [
-            {
-              "field": "title",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Art/Photography Ends on Guidelines for Art/Photography Guidelines",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "genres",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Art - up to 6 pieces at a time, both black/white & color accepted.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "length_limits",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Please submit UP TO SIX full-color images (unless intentionally greyscale in the first place) via our submission manager",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "formatting",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Please make all image submissions .jpg or .png, and as high-quality as possible.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "eligibility",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Submitted art may have previously been recognized for an award, but should not be previously published.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "formatting",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "No AI-generated or AI-assisted work will be considered or even tolerated. We employ AI detection tools!",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "simultaneous_submissions",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Also, we DO accept simultaneous art submissions, but expect you to withdraw your submission(s) if accepted elsewhere promptly after the acceptance elsewhere.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "simultaneous_submissions",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Please submit no more than two (2) times per genre per reading period. Additional submissions will be returned unread.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "submission_url",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "SUBMIT to Art/Photography",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            }
-          ],
-          "conflicts": []
-        },
-        {
-          "id": "ebeeab1bd75e90208ced24f8",
-          "title": "The Adroit Journal — Interviews & Reviews",
-          "genres": [
-            "interviews",
-            "reviews"
-          ],
-          "status": "open",
-          "opening_date": null,
-          "deadline": null,
-          "deadline_text": null,
-          "date_precision": "unspecified",
-          "timezone": null,
-          "fee": null,
-          "fee_kind": "unknown",
-          "length_limits": null,
-          "formatting": "Please consult the style guide for reviews and/or the style guide for interviews before submitting.",
-          "eligibility": "Completed reviews and interviews are accepted for consideration on the blog; the journal currently prefers reviews.",
-          "theme": null,
-          "payment": null,
-          "simultaneous_submissions": null,
-          "reprints": null,
-          "submission_url": "https://adroit.submittable.com/submit/146172/interviews-reviews",
-          "evidence": [
-            {
-              "field": "title",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Interviews & Reviews Guidelines for Interviews & Reviews Guidelines SUBMIT to Interviews & Reviews",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "genres",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "Interviews & Reviews -- we are currently accepting completed reviews and interviews for consideration on our blog.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "status",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "we are currently accepting completed reviews and interviews for consideration on our blog.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "eligibility",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "At this time, we have a preference for reviews.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "formatting",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "IMPORTANT: please consult our style guide for reviews and/or our style guide for interviews prior to submission.",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            },
-            {
-              "field": "submission_url",
-              "url": "https://adroit.submittable.com/submit",
-              "excerpt": "SUBMIT to Interviews & Reviews",
-              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
-            }
-          ],
-          "conflicts": []
-        }
-      ],
-      "lastAttempt": "2026-09-20T07:25:10.484465+00:00",
+      "id": "kenyon-review",
+      "name": "Kenyon Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "2f0a3093505348fc43a2f2a5",
-        "5d1b930674e840d89d63bdac",
-        "e21c8aa138e1faf9340a3ee7",
-        "f175b0a3bd7b84c5e8426911",
-        "7a28ca1cecf272050ac8711b",
-        "ebeeab1bd75e90208ced24f8"
-      ],
-      "outcome": "partial",
-      "warnings": [
-        "No explicit opening dates or deadlines were provided for the creative submission categories; their status is therefore unknown rather than inferred from the page’s conditional wording.",
-        "The source includes separate category-specific Submittable rules and general website guidelines; no themed call was identified.",
-        "The Reader in Translation entry is a volunteer position application rather than a creative-work submission.",
-        "The Adroit Journal — Fiction: unsupported or conflicting length_limits",
-        "The Adroit Journal — Fiction: unsupported or conflicting payment",
-        "The Adroit Journal — Creative Non-Fiction: unsupported or conflicting length_limits",
-        "The Adroit Journal — Creative Non-Fiction: unsupported or conflicting payment",
-        "The Adroit Journal — Poetry: unsupported or conflicting payment",
-        "The Adroit Journal — Translations: unsupported or conflicting genres",
-        "The Adroit Journal — Translations: unsupported or conflicting eligibility",
-        "The Adroit Journal — Art/Photography: unsupported or conflicting payment",
-        "A later refresh was rate-limited; these are the previous source-backed results.",
-        "Non-publication applications were excluded from this catalog."
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "granta",
+      "name": "Granta",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-yale-review",
+      "name": "The Yale Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "agni",
+      "name": "AGNI",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-georgia-review",
+      "name": "The Georgia Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "new-england-review",
+      "name": "New England Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
       "history": []
     },
     {
@@ -1611,6 +1252,1119 @@
         "Gulf Coast Print Edition Critical Art Writing: unsupported or conflicting fee_kind",
         "Gulf Coast Online Exclusives: unsupported or conflicting genres"
       ],
+      "history": []
+    },
+    {
+      "id": "alaska-quarterly-review",
+      "name": "Alaska Quarterly Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-iowa-review",
+      "name": "The Iowa Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-new-yorker",
+      "name": "The New Yorker",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "black-warrior-review",
+      "name": "Black Warrior Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-adroit-journal",
+      "name": "The Adroit Journal",
+      "official_url": "https://theadroitjournal.org/about/submissions/",
+      "opportunities": [
+        {
+          "id": "2f0a3093505348fc43a2f2a5",
+          "title": "The Adroit Journal — Fiction",
+          "genres": [
+            "fiction"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": null,
+          "fee_kind": "unknown",
+          "length_limits": null,
+          "formatting": "Please include a word count at the top of each submission. No AI-generated or AI-assisted work will be considered.",
+          "eligibility": null,
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": "The journal accepts simultaneous submissions when open, provided they are identified as such and withdrawn promptly if accepted elsewhere.",
+          "reprints": "The journal asks for First North American Rights; following publication, all rights revert to the writer, who must credit The Adroit Journal as the place the work first appeared.",
+          "submission_url": "https://adroit.submittable.com/submit/3345/prose-fiction",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Prose/Fiction Ends on Guidelines for Prose/Fiction Guidelines",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Fiction - up to 3 pieces at a time, 6,000 words maximum (across pieces).",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please include a word count at the top of each submission. Please no multiple submissions. Additional submissions will be returned unread. No AI-generated or AI-assisted work will be considered or even tolerated.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "When we are open to submissions, please note that we are open to simultaneous submissions (so long as you classify them as such & promptly let us know if they’re accepted elsewhere ).",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "we ask for First North American Rights to publish writing. Following publication, all rights revert back to the writer; we only ask that you credit The Adroit Journal as the place your work first appeared.",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "SUBMIT to Prose/Fiction",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "5d1b930674e840d89d63bdac",
+          "title": "The Adroit Journal — Creative Non-Fiction",
+          "genres": [
+            "creative nonfiction"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": null,
+          "fee_kind": "unknown",
+          "length_limits": null,
+          "formatting": "Please include a word count at the top of each submission. No AI-generated or AI-assisted work will be considered.",
+          "eligibility": null,
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": "The journal accepts simultaneous submissions when open, provided they are identified as such and withdrawn promptly if accepted elsewhere.",
+          "reprints": "The journal asks for First North American Rights; following publication, all rights revert to the writer, who must credit The Adroit Journal as the place the work first appeared.",
+          "submission_url": "https://adroit.submittable.com/submit/255554/prose-creative-non-fiction",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Prose/Creative Non-Fiction Ends on Guidelines for Prose/Creative Non-Fiction Guidelines",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Creative Nonfiction - up to 3 pieces at a time, 6,000 words maximum (across pieces).",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please include a word count at the top of each submission. Please no multiple submissions. Additional submissions will be returned unread. No AI-generated or AI-assisted work will be considered or even tolerated.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "When we are open to submissions, please note that we are open to simultaneous submissions (so long as you classify them as such & promptly let us know if they’re accepted elsewhere ).",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "we ask for First North American Rights to publish writing. Following publication, all rights revert back to the writer; we only ask that you credit The Adroit Journal as the place your work first appeared.",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "SUBMIT to Prose/Creative Non-Fiction",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "e21c8aa138e1faf9340a3ee7",
+          "title": "The Adroit Journal — Poetry",
+          "genres": [
+            "poetry"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": null,
+          "fee_kind": "unknown",
+          "length_limits": "Up to 6 poems in one document; no length limits.",
+          "formatting": "Multiple poems must be submitted in one document. No AI-generated or AI-assisted work will be considered.",
+          "eligibility": null,
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": "The journal accepts simultaneous submissions when open, provided they are identified as such and withdrawn promptly if accepted elsewhere.",
+          "reprints": "The journal asks for First North American Rights; following publication, all rights revert to the writer, who must credit The Adroit Journal as the place the work first appeared.",
+          "submission_url": "https://adroit.submittable.com/submit/3226/poetry",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Poetry Ends on Guidelines for Poetry Guidelines",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Poetry - up to 6 poems at a time, no length limits.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please submit up to six poems in one document via our Submittable page (adroit.submittable.com).",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "N.B. PLEASE SUBMIT MULTIPLE POEMS IN ONE DOCUMENT. Happy submitting, and thanks in advance!",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "When we are open to submissions, please note that we are open to simultaneous submissions (so long as you classify them as such & promptly let us know if they’re accepted elsewhere ).",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "reprints",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "we ask for First North American Rights to publish writing. Following publication, all rights revert back to the writer; we only ask that you credit The Adroit Journal as the place your work first appeared.",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "SUBMIT to Poetry",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "f175b0a3bd7b84c5e8426911",
+          "title": "The Adroit Journal — Translations",
+          "genres": [],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": null,
+          "fee_kind": "unknown",
+          "length_limits": "Up to 6 poems in one document, or up to 3 prose pieces; prose may be up to 6,000 words per entry. No length limit for poetry.",
+          "formatting": "Translations must include a translator’s note, author biography, publication summary, explanation of how the translator learned about the work, pagination, and word count. The translator must secure English-language publication rights. No self-translations or AI-generated or AI-assisted work.",
+          "eligibility": null,
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": "The journal accepts simultaneous submissions when open, provided they are identified as such and withdrawn promptly if accepted elsewhere.",
+          "reprints": null,
+          "submission_url": "https://adroit.submittable.com/submit/321620/translations?step=submission",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Translations Guidelines for Translations Guidelines SUBMIT to Translations",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please submit up to three prose pieces OR up to six poems in one document via our Submittable page ( adroit.submittable.com ). Prose submissions may be up to 6,000 words per entry of between 1-3 pieces. There is no length limit for poetry.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Your translation should be accompanied by a translator’s note explaining the significance of the work and providing a brief biography of the author, followed by a summary of your previous publications and a few words about how you came to learn about the work.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please paginate your submission and include a word count at the top.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "You must secure the right to publish your translation before submitting it to us.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://theadroitjournal.org/about/submissions/",
+              "excerpt": "When we are open to submissions, please note that we are open to simultaneous submissions (so long as you classify them as such & promptly let us know if they’re accepted elsewhere ).",
+              "retrieved_at": "2026-09-20T07:25:11.568972+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "SUBMIT to Translations",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "7a28ca1cecf272050ac8711b",
+          "title": "The Adroit Journal — Art/Photography",
+          "genres": [
+            "art",
+            "photography"
+          ],
+          "status": "unknown",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": null,
+          "fee_kind": "unknown",
+          "length_limits": "Up to 6 full-color images; intentionally greyscale images are also accepted.",
+          "formatting": "Submit .jpg or .png files as high-quality as possible. Submitted art should not be previously published. No AI-generated or AI-assisted work will be considered.",
+          "eligibility": null,
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": "Simultaneous art submissions are accepted, but submissions should be withdrawn promptly if accepted elsewhere. No more than two submissions per genre per reading period.",
+          "reprints": null,
+          "submission_url": "https://adroit.submittable.com/submit/3566/art-photography",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Art/Photography Ends on Guidelines for Art/Photography Guidelines",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Art - up to 6 pieces at a time, both black/white & color accepted.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "length_limits",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please submit UP TO SIX full-color images (unless intentionally greyscale in the first place) via our submission manager",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please make all image submissions .jpg or .png, and as high-quality as possible.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Submitted art may have previously been recognized for an award, but should not be previously published.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "No AI-generated or AI-assisted work will be considered or even tolerated. We employ AI detection tools!",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Also, we DO accept simultaneous art submissions, but expect you to withdraw your submission(s) if accepted elsewhere promptly after the acceptance elsewhere.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "simultaneous_submissions",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Please submit no more than two (2) times per genre per reading period. Additional submissions will be returned unread.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "SUBMIT to Art/Photography",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            }
+          ],
+          "conflicts": []
+        },
+        {
+          "id": "ebeeab1bd75e90208ced24f8",
+          "title": "The Adroit Journal — Interviews & Reviews",
+          "genres": [
+            "interviews",
+            "reviews"
+          ],
+          "status": "open",
+          "opening_date": null,
+          "deadline": null,
+          "deadline_text": null,
+          "date_precision": "unspecified",
+          "timezone": null,
+          "fee": null,
+          "fee_kind": "unknown",
+          "length_limits": null,
+          "formatting": "Please consult the style guide for reviews and/or the style guide for interviews before submitting.",
+          "eligibility": "Completed reviews and interviews are accepted for consideration on the blog; the journal currently prefers reviews.",
+          "theme": null,
+          "payment": null,
+          "simultaneous_submissions": null,
+          "reprints": null,
+          "submission_url": "https://adroit.submittable.com/submit/146172/interviews-reviews",
+          "evidence": [
+            {
+              "field": "title",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Interviews & Reviews Guidelines for Interviews & Reviews Guidelines SUBMIT to Interviews & Reviews",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "genres",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "Interviews & Reviews -- we are currently accepting completed reviews and interviews for consideration on our blog.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "status",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "we are currently accepting completed reviews and interviews for consideration on our blog.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "eligibility",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "At this time, we have a preference for reviews.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "formatting",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "IMPORTANT: please consult our style guide for reviews and/or our style guide for interviews prior to submission.",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            },
+            {
+              "field": "submission_url",
+              "url": "https://adroit.submittable.com/submit",
+              "excerpt": "SUBMIT to Interviews & Reviews",
+              "retrieved_at": "2026-09-20T07:25:25.517938+00:00"
+            }
+          ],
+          "conflicts": []
+        }
+      ],
+      "lastAttempt": "2026-09-20T07:25:10.484465+00:00",
+      "lastSuccess": null,
+      "stale": true,
+      "staleOpportunityIds": [
+        "2f0a3093505348fc43a2f2a5",
+        "5d1b930674e840d89d63bdac",
+        "e21c8aa138e1faf9340a3ee7",
+        "f175b0a3bd7b84c5e8426911",
+        "7a28ca1cecf272050ac8711b",
+        "ebeeab1bd75e90208ced24f8"
+      ],
+      "outcome": "partial",
+      "warnings": [
+        "No explicit opening dates or deadlines were provided for the creative submission categories; their status is therefore unknown rather than inferred from the page’s conditional wording.",
+        "The source includes separate category-specific Submittable rules and general website guidelines; no themed call was identified.",
+        "The Reader in Translation entry is a volunteer position application rather than a creative-work submission.",
+        "The Adroit Journal — Fiction: unsupported or conflicting length_limits",
+        "The Adroit Journal — Fiction: unsupported or conflicting payment",
+        "The Adroit Journal — Creative Non-Fiction: unsupported or conflicting length_limits",
+        "The Adroit Journal — Creative Non-Fiction: unsupported or conflicting payment",
+        "The Adroit Journal — Poetry: unsupported or conflicting payment",
+        "The Adroit Journal — Translations: unsupported or conflicting genres",
+        "The Adroit Journal — Translations: unsupported or conflicting eligibility",
+        "The Adroit Journal — Art/Photography: unsupported or conflicting payment",
+        "A later refresh was rate-limited; these are the previous source-backed results.",
+        "Non-publication applications were excluded from this catalog."
+      ],
+      "history": []
+    },
+    {
+      "id": "the-journal",
+      "name": "The Journal",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-paris-review",
+      "name": "The Paris Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "swamp-pink",
+      "name": "swamp pink",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "copper-nickel",
+      "name": "Copper Nickel",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "southern-humanities-review",
+      "name": "Southern Humanities Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-southern-review",
+      "name": "The Southern Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-american-poetry-review",
+      "name": "The American Poetry Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "ploughshares",
+      "name": "Ploughshares",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "virginia-quarterly-review",
+      "name": "Virginia Quarterly Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-cincinnati-review",
+      "name": "The Cincinnati Review",
+      "official_url": "https://www.cincinnatireview.com/",
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "colorado-review",
+      "name": "Colorado Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "cherry-tree",
+      "name": "Cherry Tree",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "cream-city-review",
+      "name": "Cream City Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "denver-quarterly",
+      "name": "Denver Quarterly",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "frontier-poetry",
+      "name": "Frontier Poetry",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-fiddlehead",
+      "name": "The Fiddlehead",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "haydens-ferry-review",
+      "name": "Hayden’s Ferry Review",
+      "official_url": "https://haydensferryreview.com/",
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-mcneese-review",
+      "name": "The McNeese Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "painted-bride-quarterly",
+      "name": "Painted Bride Quarterly",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "west-branch",
+      "name": "West Branch",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "ninth-letter",
+      "name": "Ninth Letter",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "southern-indiana-review",
+      "name": "Southern Indiana Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "beloit-poetry-journal",
+      "name": "Beloit Poetry Journal",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "blackbird",
+      "name": "Blackbird",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "boston-review",
+      "name": "Boston Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "poetry-northwest",
+      "name": "Poetry Northwest",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "boulevard",
+      "name": "Boulevard",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-nation",
+      "name": "The Nation",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "narrative",
+      "name": "Narrative",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "salt-hill",
+      "name": "Salt Hill",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "five-points",
+      "name": "Five Points",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "palette-poetry",
+      "name": "Palette Poetry",
+      "official_url": "https://www.palettepoetry.com/",
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "diagram",
+      "name": "DIAGRAM",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "diode",
+      "name": "diode",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "wrist",
+      "name": "WRIST",
+      "official_url": "https://wristmag.com/",
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "phoebe",
+      "name": "Phoebe",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-pinch",
+      "name": "The Pinch",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "sixth-finch",
+      "name": "Sixth Finch",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "pleiades",
+      "name": "Pleiades",
+      "official_url": "https://pleiadesmag.com/",
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "salmagundi",
+      "name": "Salmagundi",
+      "official_url": "https://salmagundi.skidmore.edu/",
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "sundog-lit",
+      "name": "Sundog Lit",
+      "official_url": "https://sundoglit.com/submissions/",
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "prairie-schooner",
+      "name": "Prairie Schooner",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "tulsa-review",
+      "name": "Tulsa Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "permafrost",
+      "name": "Permafrost",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "the-emerson-review",
+      "name": "The Emerson Review",
+      "official_url": "https://orgs.emerson.edu/emerson-review/",
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "new-ohio-review",
+      "name": "New Ohio Review",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "foglifter",
+      "name": "Foglifter",
+      "official_url": null,
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
+      "history": []
+    },
+    {
+      "id": "sho-poetry-journal",
+      "name": "Shō Poetry Journal",
+      "official_url": "https://shopoetryjournal.com/",
+      "opportunities": [],
+      "lastAttempt": null,
+      "lastSuccess": null,
+      "stale": false,
+      "staleOpportunityIds": [],
+      "outcome": "unfetched",
+      "warnings": [],
       "history": []
     }
   ]
