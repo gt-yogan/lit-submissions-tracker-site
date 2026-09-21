@@ -1,7 +1,7 @@
 {
   "kind": "marginalia-catalog",
   "schema_version": 1,
-  "generated_at": "2026-09-21T16:23:08.757523+00:00",
+  "generated_at": "2026-09-21T16:29:04.737528+00:00",
   "journals": [
     {
       "id": "poetry",
@@ -3341,7 +3341,7 @@
           "genres": [
             "poetry"
           ],
-          "status": "unknown",
+          "status": "open",
           "opening_date": "2026-08-01",
           "deadline": "2026-10-01",
           "deadline_text": "August 1–October 1; no year stated.",
@@ -3375,7 +3375,7 @@
           "genres": [
             "fiction"
           ],
-          "status": "unknown",
+          "status": "open",
           "opening_date": "2026-08-01",
           "deadline": "2026-10-01",
           "deadline_text": "August 1–October 1; no year stated.",
@@ -3411,7 +3411,7 @@
             "reviews",
             "interviews"
           ],
-          "status": "unknown",
+          "status": "open",
           "opening_date": "2026-08-01",
           "deadline": "2026-11-01",
           "deadline_text": "August 1–November 1; no year stated.",
@@ -3480,9 +3480,154 @@
       "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
-        "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
+        "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified.",
+        "Availability manually confirmed by the catalog owner on September 21, 2026: Poetry; Fiction; Nonfiction, reviews and interviews. The source year remains inferred."
       ],
-      "history": []
+      "history": [
+        {
+          "at": "2026-09-20T21:13:00.419107+00:00",
+          "opportunities": [
+            {
+              "id": "reviewed-47b7c4f3fc64bb08a533",
+              "title": "Poetry",
+              "genres": [
+                "poetry"
+              ],
+              "status": "unknown",
+              "opening_date": "2026-08-01",
+              "deadline": "2026-10-01",
+              "deadline_text": "August 1–October 1; no year stated.",
+              "inferred_year": 2026,
+              "deadline_at": null,
+              "date_precision": "date",
+              "timezone": null,
+              "fee": "$4 online; free for subscribers",
+              "fee_kind": "paid",
+              "length_limits": "Eight pages.",
+              "formatting": null,
+              "eligibility": null,
+              "theme": null,
+              "payment": null,
+              "simultaneous_submissions": null,
+              "reprints": null,
+              "submission_url": "https://iowareview.org/submissions/",
+              "evidence": [
+                {
+                  "field": "guidelines",
+                  "url": "https://iowareview.org/submissions/",
+                  "excerpt": "We are always open for submissions",
+                  "retrieved_at": "2026-09-20T21:13:00.419107+00:00"
+                }
+              ],
+              "conflicts": []
+            },
+            {
+              "id": "reviewed-3e26c7598c22db9422dc",
+              "title": "Fiction",
+              "genres": [
+                "fiction"
+              ],
+              "status": "unknown",
+              "opening_date": "2026-08-01",
+              "deadline": "2026-10-01",
+              "deadline_text": "August 1–October 1; no year stated.",
+              "inferred_year": 2026,
+              "deadline_at": null,
+              "date_precision": "date",
+              "timezone": null,
+              "fee": null,
+              "fee_kind": "unknown",
+              "length_limits": "25 pages; double spaced; anonymous manuscript.",
+              "formatting": null,
+              "eligibility": null,
+              "theme": null,
+              "payment": null,
+              "simultaneous_submissions": null,
+              "reprints": null,
+              "submission_url": "https://iowareview.org/submissions/",
+              "evidence": [
+                {
+                  "field": "guidelines",
+                  "url": "https://iowareview.org/submissions/",
+                  "excerpt": "We are always open for submissions",
+                  "retrieved_at": "2026-09-20T21:13:00.419107+00:00"
+                }
+              ],
+              "conflicts": []
+            },
+            {
+              "id": "reviewed-1131633248efa40d7bd0",
+              "title": "Nonfiction, reviews and interviews",
+              "genres": [
+                "nonfiction",
+                "reviews",
+                "interviews"
+              ],
+              "status": "unknown",
+              "opening_date": "2026-08-01",
+              "deadline": "2026-11-01",
+              "deadline_text": "August 1–November 1; no year stated.",
+              "inferred_year": 2026,
+              "deadline_at": null,
+              "date_precision": "date",
+              "timezone": null,
+              "fee": null,
+              "fee_kind": "unknown",
+              "length_limits": "Prose: 25 pages.",
+              "formatting": null,
+              "eligibility": null,
+              "theme": null,
+              "payment": null,
+              "simultaneous_submissions": null,
+              "reprints": null,
+              "submission_url": "https://iowareview.org/submissions/",
+              "evidence": [
+                {
+                  "field": "guidelines",
+                  "url": "https://iowareview.org/submissions/",
+                  "excerpt": "We are always open for submissions",
+                  "retrieved_at": "2026-09-20T21:13:00.419107+00:00"
+                }
+              ],
+              "conflicts": []
+            },
+            {
+              "id": "reviewed-ee31931efc5aab4709a0",
+              "title": "Visual literature",
+              "genres": [
+                "visual literature"
+              ],
+              "status": "rolling",
+              "opening_date": null,
+              "deadline": null,
+              "deadline_text": null,
+              "inferred_year": null,
+              "deadline_at": null,
+              "date_precision": "unspecified",
+              "timezone": null,
+              "fee": null,
+              "fee_kind": "unknown",
+              "length_limits": null,
+              "formatting": null,
+              "eligibility": null,
+              "theme": null,
+              "payment": null,
+              "simultaneous_submissions": null,
+              "reprints": null,
+              "submission_url": "https://iowareview.org/submissions/",
+              "evidence": [
+                {
+                  "field": "guidelines",
+                  "url": "https://iowareview.org/submissions/",
+                  "excerpt": "We are always open for submissions",
+                  "retrieved_at": "2026-09-20T21:13:00.419107+00:00"
+                }
+              ],
+              "conflicts": []
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "the-new-yorker",
@@ -5356,7 +5501,7 @@
           "genres": [
             "poetry"
           ],
-          "status": "unknown",
+          "status": "open",
           "opening_date": "2026-06-01",
           "deadline": "2026-11-15",
           "deadline_text": "June 1–November 15, 5:00pm EST; year not specified.",
@@ -5391,7 +5536,7 @@
             "fiction",
             "nonfiction"
           ],
-          "status": "unknown",
+          "status": "open",
           "opening_date": "2026-06-01",
           "deadline": "2026-11-15",
           "deadline_text": "June 1–November 15, 5:00pm EST; year not specified.",
@@ -5426,9 +5571,85 @@
       "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
-        "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
+        "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified.",
+        "Availability manually confirmed by the catalog owner on September 21, 2026: Poetry; Prose. The source year remains inferred."
       ],
-      "history": []
+      "history": [
+        {
+          "at": "2026-09-20T21:13:00.419107+00:00",
+          "opportunities": [
+            {
+              "id": "reviewed-ff7e17ddb781f5e1d315",
+              "title": "Poetry",
+              "genres": [
+                "poetry"
+              ],
+              "status": "unknown",
+              "opening_date": "2026-06-01",
+              "deadline": "2026-11-15",
+              "deadline_text": "June 1–November 15, 5:00pm EST; year not specified.",
+              "inferred_year": 2026,
+              "deadline_at": null,
+              "date_precision": "date",
+              "timezone": "EST",
+              "fee": null,
+              "fee_kind": "unknown",
+              "length_limits": "3–5 pages; longform 6–10 pages.",
+              "formatting": "Anonymous .doc, .docx or PDF, maximum 10 MB.",
+              "eligibility": null,
+              "theme": null,
+              "payment": null,
+              "simultaneous_submissions": null,
+              "reprints": null,
+              "submission_url": "https://pshares.org/product/manuscript-submission/",
+              "evidence": [
+                {
+                  "field": "guidelines",
+                  "url": "https://pshares.org/product/manuscript-submission/",
+                  "excerpt": "June 1 – November 15",
+                  "retrieved_at": "2026-09-20T21:13:00.419107+00:00"
+                }
+              ],
+              "conflicts": []
+            },
+            {
+              "id": "reviewed-1ca598cdaac42d833a68",
+              "title": "Prose",
+              "genres": [
+                "fiction",
+                "nonfiction"
+              ],
+              "status": "unknown",
+              "opening_date": "2026-06-01",
+              "deadline": "2026-11-15",
+              "deadline_text": "June 1–November 15, 5:00pm EST; year not specified.",
+              "inferred_year": 2026,
+              "deadline_at": null,
+              "date_precision": "date",
+              "timezone": "EST",
+              "fee": null,
+              "fee_kind": "unknown",
+              "length_limits": "Up to 6,500 words; longform up to 15,000.",
+              "formatting": null,
+              "eligibility": null,
+              "theme": null,
+              "payment": null,
+              "simultaneous_submissions": null,
+              "reprints": null,
+              "submission_url": "https://pshares.org/product/manuscript-submission/",
+              "evidence": [
+                {
+                  "field": "guidelines",
+                  "url": "https://pshares.org/product/manuscript-submission/",
+                  "excerpt": "June 1 – November 15",
+                  "retrieved_at": "2026-09-20T21:13:00.419107+00:00"
+                }
+              ],
+              "conflicts": []
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "virginia-quarterly-review",
@@ -8371,7 +8592,7 @@
           "genres": [
             "poetry"
           ],
-          "status": "unknown",
+          "status": "open",
           "opening_date": "2026-08-15",
           "deadline": "2026-10-15",
           "deadline_text": "August 15–October 15; no year specified.",
@@ -8406,7 +8627,7 @@
             "fiction",
             "nonfiction"
           ],
-          "status": "unknown",
+          "status": "open",
           "opening_date": "2026-08-15",
           "deadline": "2026-10-15",
           "deadline_text": "August 15–October 15; no year specified.",
@@ -8441,9 +8662,85 @@
       "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
-        "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
+        "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified.",
+        "Availability manually confirmed by the catalog owner on September 21, 2026: Print poetry; Print prose. The source year remains inferred."
       ],
-      "history": []
+      "history": [
+        {
+          "at": "2026-09-20T21:13:00.419107+00:00",
+          "opportunities": [
+            {
+              "id": "reviewed-4ac89301efc36d426e69",
+              "title": "Print poetry",
+              "genres": [
+                "poetry"
+              ],
+              "status": "unknown",
+              "opening_date": "2026-08-15",
+              "deadline": "2026-10-15",
+              "deadline_text": "August 15–October 15; no year specified.",
+              "inferred_year": 2026,
+              "deadline_at": null,
+              "date_precision": "date",
+              "timezone": null,
+              "fee": null,
+              "fee_kind": "unknown",
+              "length_limits": "3–5 poems, ten pages maximum.",
+              "formatting": null,
+              "eligibility": null,
+              "theme": null,
+              "payment": "$30 per poem",
+              "simultaneous_submissions": null,
+              "reprints": null,
+              "submission_url": "https://phoebejournal.com/submissions/",
+              "evidence": [
+                {
+                  "field": "guidelines",
+                  "url": "https://phoebejournal.com/submissions/",
+                  "excerpt": "August 15th to October 15th",
+                  "retrieved_at": "2026-09-20T21:13:00.419107+00:00"
+                }
+              ],
+              "conflicts": []
+            },
+            {
+              "id": "reviewed-0f553678ee7aace08745",
+              "title": "Print prose",
+              "genres": [
+                "fiction",
+                "nonfiction"
+              ],
+              "status": "unknown",
+              "opening_date": "2026-08-15",
+              "deadline": "2026-10-15",
+              "deadline_text": "August 15–October 15; no year specified.",
+              "inferred_year": 2026,
+              "deadline_at": null,
+              "date_precision": "date",
+              "timezone": null,
+              "fee": null,
+              "fee_kind": "unknown",
+              "length_limits": "Usually no more than 4,000 words; flash up to three pieces under 1,000 words each.",
+              "formatting": null,
+              "eligibility": "Current/former GMU creative-writing students and other GMU affiliates ineligible.",
+              "theme": null,
+              "payment": "$30 per piece",
+              "simultaneous_submissions": null,
+              "reprints": null,
+              "submission_url": "https://phoebejournal.com/submissions/",
+              "evidence": [
+                {
+                  "field": "guidelines",
+                  "url": "https://phoebejournal.com/submissions/",
+                  "excerpt": "August 15th to October 15th",
+                  "retrieved_at": "2026-09-20T21:13:00.419107+00:00"
+                }
+              ],
+              "conflicts": []
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "the-pinch",
