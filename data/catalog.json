@@ -1,7 +1,7 @@
 {
   "kind": "marginalia-catalog",
   "schema_version": 1,
-  "generated_at": "2026-09-21T03:53:26.101738+00:00",
+  "generated_at": "2026-09-21T04:03:46.283307+00:00",
   "journals": [
     {
       "id": "poetry",
@@ -18,6 +18,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "free",
@@ -107,6 +108,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "free",
@@ -195,6 +197,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "free",
@@ -289,6 +292,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "free",
@@ -384,6 +388,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "free",
@@ -513,6 +518,7 @@
           "opening_date": "2026-09-01",
           "deadline": "2026-09-30",
           "deadline_text": "2026-09-30 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": "No reading fee",
@@ -546,6 +552,7 @@
           "opening_date": "2026-09-01",
           "deadline": "2026-09-30",
           "deadline_text": "2026-09-30 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": "No reading fee",
@@ -578,6 +585,7 @@
           "opening_date": "2026-09-01",
           "deadline": "2026-09-30",
           "deadline_text": "2026-09-30 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": "No reading fee",
@@ -603,12 +611,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-9dc8c5266bbb48d56f28",
-        "reviewed-18ed1dbf91fd75e914ea",
-        "reviewed-7e708188ede35132a92b"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -631,6 +635,7 @@
           "opening_date": "2026-09-01",
           "deadline": "2026-09-30",
           "deadline_text": "2026 windows: March, June, September, December; opening day 10 a.m., closing day midnight UK time.",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": "UK time",
           "fee": "£3.50; 200 low-income free entries per window",
@@ -663,6 +668,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -688,11 +694,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-aa3256f9c9b291028eae",
-        "reviewed-6c93fbb46ea0004ebe8f"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -714,6 +717,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3; limited waivers",
@@ -746,6 +750,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "Check for updated information in 2027; no reopening date announced.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -778,6 +783,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -803,12 +809,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-bea1b71428f1e9ca2537",
-        "reviewed-ce95b8b988355bbfdc1f",
-        "reviewed-48280773f079cdfa3375"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -830,6 +832,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "September 1–December 15; January 15–May 31; 11:59 p.m. Eastern. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": "Eastern Time",
           "fee": "$3 online; waiver available; postal submissions free",
@@ -863,6 +866,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "September 1–December 15; January 15–May 31; 11:59 p.m. Eastern. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": "Eastern Time",
           "fee": "$3 online; waiver available; postal submissions free",
@@ -888,11 +892,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-b89bbe8f809467acf14d",
-        "reviewed-707a7e6fba6172182871"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -916,6 +917,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "August 15 to May 15. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3 online; subscribers and postal submissions free.",
@@ -941,10 +943,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-1dfe10a5061957b6622c"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -966,6 +966,7 @@
           "opening_date": null,
           "deadline": "2026-09-04",
           "deadline_text": "2026-09-04 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": null,
@@ -998,6 +999,7 @@
           "opening_date": null,
           "deadline": "2026-09-17",
           "deadline_text": "2026-09-17 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": null,
@@ -1031,6 +1033,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "March 1–May 1; September 1–November 1; may close at capacity. Year not specified for these genres.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -1063,6 +1066,7 @@
           "opening_date": null,
           "deadline": "2026-09-20",
           "deadline_text": "September 20, 2026, 11:59 pm EST",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": "EST",
           "fee": null,
@@ -1088,13 +1092,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-4270b5b951b3a1d9fa2a",
-        "reviewed-fe53005b9efa95e9a866",
-        "reviewed-501cca5a00b03352886a",
-        "reviewed-10527c8858d9d3996ca1"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -1116,6 +1115,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "March 1",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3.00",
@@ -1220,6 +1220,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "March 1",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3.00",
@@ -1319,6 +1320,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "March 1",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3.00",
@@ -1418,6 +1420,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "March 1",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3.00",
@@ -1511,6 +1514,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "March 1",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3.00",
@@ -1591,6 +1595,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "March 1",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3.00",
@@ -1681,6 +1686,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "December 21st to January 25th",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -1774,6 +1780,7 @@
           "opening_date": "2026-02-14",
           "deadline": "2026-02-22",
           "deadline_text": "2026-02-22 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": "$3",
@@ -1806,6 +1813,7 @@
           "opening_date": "2026-04-10",
           "deadline": "2026-04-19",
           "deadline_text": "2026-04-19 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": "$3",
@@ -1838,6 +1846,7 @@
           "opening_date": "2026-05-23",
           "deadline": "2026-05-31",
           "deadline_text": "2026-05-31 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": "$3",
@@ -1863,12 +1872,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-54cbbf44babbe56bad5f",
-        "reviewed-90c1b0dcfe2495e75a63",
-        "reviewed-5b1f184924a3c020befa"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -1887,10 +1892,11 @@
             "poetry"
           ],
           "status": "unknown",
-          "opening_date": null,
-          "deadline": null,
+          "opening_date": "2026-08-01",
+          "deadline": "2026-10-01",
           "deadline_text": "August 1–October 1; no year stated.",
-          "date_precision": "unspecified",
+          "inferred_year": 2026,
+          "date_precision": "date",
           "timezone": null,
           "fee": "$4 online; free for subscribers",
           "fee_kind": "paid",
@@ -1919,10 +1925,11 @@
             "fiction"
           ],
           "status": "unknown",
-          "opening_date": null,
-          "deadline": null,
+          "opening_date": "2026-08-01",
+          "deadline": "2026-10-01",
           "deadline_text": "August 1–October 1; no year stated.",
-          "date_precision": "unspecified",
+          "inferred_year": 2026,
+          "date_precision": "date",
           "timezone": null,
           "fee": null,
           "fee_kind": "unknown",
@@ -1953,10 +1960,11 @@
             "interviews"
           ],
           "status": "unknown",
-          "opening_date": null,
-          "deadline": null,
+          "opening_date": "2026-08-01",
+          "deadline": "2026-11-01",
           "deadline_text": "August 1–November 1; no year stated.",
-          "date_precision": "unspecified",
+          "inferred_year": 2026,
+          "date_precision": "date",
           "timezone": null,
           "fee": null,
           "fee_kind": "unknown",
@@ -1988,6 +1996,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2013,13 +2022,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-47b7c4f3fc64bb08a533",
-        "reviewed-3e26c7598c22db9422dc",
-        "reviewed-1131633248efa40d7bd0",
-        "reviewed-ee31931efc5aab4709a0"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -2041,6 +2045,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2073,6 +2078,7 @@
           "opening_date": "2026-11-01",
           "deadline": null,
           "deadline_text": "Temporarily closed during move to Submittable; reopens November 1, 2026.",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": null,
@@ -2098,11 +2104,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-8b8f821693df42624e00",
-        "reviewed-6cbd19c96f6261092823"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -2127,6 +2130,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "December 15th–March 1st; June 1st–September 30th. Dates may change with staff; no year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "Fee applies; hardship waivers and free submissions for incarcerated writers.",
@@ -2162,6 +2166,7 @@
           "opening_date": "2026-05-15",
           "deadline": "2026-06-15",
           "deadline_text": "2026-06-15 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": null,
@@ -2187,11 +2192,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-673cd16f3a0a7705613e",
-        "reviewed-5c33ee1b7dcfa6e63ab3"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -2213,6 +2215,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2275,6 +2278,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2337,6 +2341,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2403,6 +2408,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2472,6 +2478,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2553,6 +2560,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2639,6 +2647,7 @@
           "opening_date": "2026-07-15",
           "deadline": "2026-09-15",
           "deadline_text": "2026-09-15 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": null,
@@ -2672,6 +2681,7 @@
           "opening_date": "2026-07-15",
           "deadline": "2026-09-15",
           "deadline_text": "2026-09-15 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": null,
@@ -2697,11 +2707,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-5f15369e7e6440b9948b",
-        "reviewed-a833af52980e382d6a41"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -2723,6 +2730,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2756,6 +2764,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2788,6 +2797,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "January, April, July, October until capacity; no year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2821,6 +2831,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "February, June, October until capacity; no year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2846,13 +2857,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-0830ec001f849c15887e",
-        "reviewed-b00db5044a21d54b7970",
-        "reviewed-6732319043692167438d",
-        "reviewed-36f4b8e6708a319243dd"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -2874,6 +2880,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "September 1–December 31; February 1–May 31; no year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2906,6 +2913,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "September 1–December 31; February 1–May 31; no year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2938,6 +2946,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "September 1–December 31; February 1–May 31; no year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -2963,12 +2972,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-b9d0e7cebbe2ad215a73",
-        "reviewed-002a2d6e6dc66254a8b3",
-        "reviewed-880be240b3cfe3a015e1"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -2990,6 +2995,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "August 15–December 1; January 15–March 1. No year specified; submission caps apply.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -3023,6 +3029,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "August 15–December 1; January 15–March 1. No year specified; fiction caps apply.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -3055,6 +3062,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -3080,12 +3088,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-a2302b75db23c2b2f085",
-        "reviewed-edf7511493a016053e99",
-        "reviewed-de9e735beec3cab13cee"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -3107,6 +3111,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "August 1–November 1; February 15–May 15. No year stated; cap applies.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3; first 100 entries per genre free",
@@ -3139,6 +3144,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "August 1–November 1; February 15–May 15. No year stated; cap applies.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -3171,6 +3177,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "August 1–November 1; February 15–May 15. No year stated.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -3196,12 +3203,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-8fb0ea414dcf02265937",
-        "reviewed-d7a4302a325b52ce7641",
-        "reviewed-ad299d720ba6f09e1e99"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -3226,6 +3229,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$4",
@@ -3251,10 +3255,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-f289335a08e54e355ee5"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -3276,6 +3278,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3",
@@ -3310,6 +3313,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3",
@@ -3335,11 +3339,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-020b25f58b92c2c92071",
-        "reviewed-536229f90678f69c6863"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -3358,10 +3359,11 @@
             "poetry"
           ],
           "status": "unknown",
-          "opening_date": null,
-          "deadline": null,
+          "opening_date": "2026-06-01",
+          "deadline": "2026-11-15",
           "deadline_text": "June 1–November 15, 5:00pm EST; year not specified.",
-          "date_precision": "unspecified",
+          "inferred_year": 2026,
+          "date_precision": "date",
           "timezone": "EST",
           "fee": null,
           "fee_kind": "unknown",
@@ -3391,10 +3393,11 @@
             "nonfiction"
           ],
           "status": "unknown",
-          "opening_date": null,
-          "deadline": null,
+          "opening_date": "2026-06-01",
+          "deadline": "2026-11-15",
           "deadline_text": "June 1–November 15, 5:00pm EST; year not specified.",
-          "date_precision": "unspecified",
+          "inferred_year": 2026,
+          "date_precision": "date",
           "timezone": "EST",
           "fee": null,
           "fee_kind": "unknown",
@@ -3419,11 +3422,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-ff7e17ddb781f5e1d315",
-        "reviewed-1ca598cdaac42d833a68"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -3445,6 +3445,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "Reopening in 2027; exact date unconfirmed.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -3477,6 +3478,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -3509,6 +3511,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -3534,12 +3537,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-31ce220f86e73a8c80fa",
-        "reviewed-d4bb0d7bbf02d3ba1f94",
-        "reviewed-eed553f77f5bcfd2d408"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -3564,6 +3563,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "Generally September, December and May, from the 1st until cap; page notes an exceptional March opening. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -3600,6 +3600,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "Nearly year-round, except early-summer award period or backlogs.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -3625,11 +3626,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-4d9d453b4ded6704490e",
-        "reviewed-fd8156e349cda1b9a87f"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -3652,6 +3650,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "August 1 to March 31. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3",
@@ -3684,6 +3683,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3",
@@ -3716,6 +3716,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "August 1 through April 30. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "Free",
@@ -3741,12 +3742,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-3084845bef7e72e7de73",
-        "reviewed-79f182539647bb23d09d",
-        "reviewed-d9b41ee0aa7546bac861"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -3767,10 +3764,11 @@
             "nonfiction"
           ],
           "status": "unknown",
-          "opening_date": null,
-          "deadline": null,
+          "opening_date": "2026-08-01",
+          "deadline": "2026-10-01",
           "deadline_text": "August 1 to October 1. No year specified.",
-          "date_precision": "unspecified",
+          "inferred_year": 2026,
+          "date_precision": "date",
           "timezone": null,
           "fee": "Reading fee applies; amount not verified.",
           "fee_kind": "paid",
@@ -3795,10 +3793,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-e52ed1b22d927615b135"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -3820,6 +3816,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "August 2–November 2; spring closing differs between website (April 1) and portal (April 2). Year unspecified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$2.50",
@@ -3861,6 +3858,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$2.50",
@@ -3894,11 +3892,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-d78a57573124e0e48483",
-        "reviewed-8f82c484975eaa5b494d"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -3922,6 +3917,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "Seasonal windows announced on social media; cap 800. Current dates unverified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$5; email for waiver.",
@@ -3957,6 +3953,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "Year-round, subject to monthly cap of 800.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$5; waiver available.",
@@ -3982,11 +3979,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-dc03b6dc3b233b36c8f6",
-        "reviewed-bad5c1e019ee3276a6b9"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -4008,6 +4002,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "Free standard submission; optional paid services",
@@ -4033,10 +4028,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-d15013bd0a8cefe39603"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -4061,6 +4054,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "January 1–31 (Canadian only); September 15–October 15. No year attached to windows.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "USD $5 for international submissions; Canadian citizens abroad exempt.",
@@ -4096,6 +4090,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -4121,11 +4116,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-56b2a9d8971386fde460",
-        "reviewed-60125d0b4d6edf483a3d"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -4147,6 +4139,7 @@
           "opening_date": "2026-06-15",
           "deadline": "2026-07-15",
           "deadline_text": "2026-07-15 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": null,
@@ -4180,6 +4173,7 @@
           "opening_date": "2026-06-15",
           "deadline": "2026-07-15",
           "deadline_text": "2026-07-15 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": null,
@@ -4212,6 +4206,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3; limited free categories",
@@ -4237,12 +4232,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-35fdece13c8687aba896",
-        "reviewed-65ba8e03740bfdd4083c",
-        "reviewed-c9ac0ac20e75c257d40e"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -4266,6 +4257,7 @@
           "opening_date": "2026-06-01",
           "deadline": "2026-08-15",
           "deadline_text": "2026-08-15 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": "$3",
@@ -4291,10 +4283,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-132d36913783d6d5fa93"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -4316,6 +4306,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -4349,6 +4340,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -4382,6 +4374,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -4407,12 +4400,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-7411a68e89af5d3a081b",
-        "reviewed-5b3122c8b7e1f464094c",
-        "reviewed-95fc9a74187119259b2e"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -4437,6 +4426,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "August 1–April 1. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -4462,10 +4452,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-d3d708a1b098547bb13b"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -4487,6 +4475,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "September 1–February 28; no year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3; limited waivers and December free window",
@@ -4520,6 +4509,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "September 1–February 28; no year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -4554,6 +4544,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "Web windows: September 1–November 1 and February 1–April 1; 350-entry cap per genre. Submission year not explicit.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -4579,12 +4570,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-8ed6c2c3c01c9a82edf5",
-        "reviewed-3f013457401ed7c3cf84",
-        "reviewed-6a88167123d9eec735d0"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -4608,6 +4595,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "September 15–December 15; February 15–May 15. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$4",
@@ -4633,10 +4621,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-fe466f1b7b82fd51e8d5"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -4658,6 +4644,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "January 1–31 and July 1–31; cap of 800 free submissions per month. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "Free within submission cap.",
@@ -4683,10 +4670,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-ce85934d738bcb4055e4"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -4708,6 +4693,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -4741,6 +4727,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -4766,11 +4753,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-933f26c2f788227a818e",
-        "reviewed-13f47e9e8fd2bd500680"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -4793,6 +4777,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -4825,6 +4810,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -4850,11 +4836,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-36d47f89cc177cf047b8",
-        "reviewed-256d87b9a2629e0c29bd"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -4876,6 +4859,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -4908,6 +4892,7 @@
           "opening_date": "2026-08-15",
           "deadline": "2026-09-15",
           "deadline_text": "2026-09-15 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": null,
@@ -4941,6 +4926,7 @@
           "opening_date": "2026-10-01",
           "deadline": "2026-10-31",
           "deadline_text": "2026-10-31 (dated window; see source for original wording)",
+          "inferred_year": null,
           "date_precision": "date",
           "timezone": null,
           "fee": null,
@@ -4975,6 +4961,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -5000,13 +4987,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-f8708d32225363808956",
-        "reviewed-29e30cb421b13eb883cb",
-        "reviewed-648952a8df06ac7bf4e3",
-        "reviewed-6c2960bdd864e7fc6516"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5028,6 +5010,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "November 1–May 1; no year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3",
@@ -5061,6 +5044,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "November 1–May 1; no year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3",
@@ -5086,11 +5070,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-664eb4b2efa1deaf0341",
-        "reviewed-eec561057709464c81d0"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5112,6 +5093,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -5137,10 +5119,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-a5945ff6cb746f00d860"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5164,6 +5144,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "Reading fee applies; amount not verified.",
@@ -5189,10 +5170,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-251907cad4d8948c90e7"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5214,6 +5193,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "December–January and July–August; no year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -5246,6 +5226,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "December–January and July–August; no year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -5278,6 +5259,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -5303,12 +5285,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-cf2a8906663d4978b65d",
-        "reviewed-e2d92c703c2130fd624b",
-        "reviewed-14cc9fafe6b9d584b49b"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5330,6 +5308,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$4",
@@ -5362,6 +5341,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$5",
@@ -5394,6 +5374,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$4",
@@ -5427,6 +5408,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3",
@@ -5452,13 +5434,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-cdc45b883db7c1390aa9",
-        "reviewed-abbef903caa5d026f7d4",
-        "reviewed-504af0b74968e9e9ee9d",
-        "reviewed-d91df4bda80758a3a0ad"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5480,6 +5457,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "Free standard submission; optional paid services",
@@ -5505,10 +5483,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-6013db428b6aae5c3746"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5533,6 +5509,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -5558,10 +5535,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-e67b7beeefef4c9e6919"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5586,6 +5561,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "No reading fee",
@@ -5611,10 +5587,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-27fa68425ce0a67e8c2a"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5628,7 +5602,7 @@
       "opportunities": [],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
+      "stale": false,
       "staleOpportunityIds": [],
       "outcome": "failed",
       "warnings": [
@@ -5649,10 +5623,11 @@
             "poetry"
           ],
           "status": "unknown",
-          "opening_date": null,
-          "deadline": null,
+          "opening_date": "2026-08-15",
+          "deadline": "2026-10-15",
           "deadline_text": "August 15–October 15; no year specified.",
-          "date_precision": "unspecified",
+          "inferred_year": 2026,
+          "date_precision": "date",
           "timezone": null,
           "fee": null,
           "fee_kind": "unknown",
@@ -5682,10 +5657,11 @@
             "nonfiction"
           ],
           "status": "unknown",
-          "opening_date": null,
-          "deadline": null,
+          "opening_date": "2026-08-15",
+          "deadline": "2026-10-15",
           "deadline_text": "August 15–October 15; no year specified.",
-          "date_precision": "unspecified",
+          "inferred_year": 2026,
+          "date_precision": "date",
           "timezone": null,
           "fee": null,
           "fee_kind": "unknown",
@@ -5710,11 +5686,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-4ac89301efc36d426e69",
-        "reviewed-0f553678ee7aace08745"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5738,6 +5711,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -5763,10 +5737,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-04279b6950e3a3a20170"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5788,6 +5760,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "Fall issue open through October 6. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "Free; optional $6 donation.",
@@ -5813,10 +5786,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-6d9b294901f47c013d5b"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5841,6 +5812,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "June and December. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -5874,6 +5846,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -5899,11 +5872,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-12b79ff2ba6d5f57ab34",
-        "reviewed-0ad16e867d4069ab0c86"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5928,6 +5898,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "Closed until further notice.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -5953,10 +5924,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-ffc29b21268079c2dc65"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -5978,6 +5947,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "March 1–May 1; October 1–December 1; no year stated.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -6010,6 +5980,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "March 1–May 1; October 1–December 1; no year stated.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -6042,6 +6013,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "Page specifically labels nonfiction closed for fall; year not stated.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -6067,12 +6039,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-1ef746cb305ae2dddf96",
-        "reviewed-e9e21a41d6cebcfa7300",
-        "reviewed-c43563d75afb64c1e113"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -6096,6 +6064,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "September 1 – September 15; February 1 – February 15; caps apply. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -6129,6 +6098,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -6154,11 +6124,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-8a3e6a86a394c2fa3401",
-        "reviewed-8828f257652ed57fcaed"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -6180,6 +6147,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "General period early May to following March 1; poetry cap 100 submissions. Exact dated deadline not displayed.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$2",
@@ -6214,6 +6182,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "General period early May to following March 1; prose cap 75 submissions. Exact dated deadline not displayed.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3",
@@ -6239,11 +6208,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-441cf0ffae3b69a5fef5",
-        "reviewed-5dd577b7d13c2064b899"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -6268,6 +6234,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$5",
@@ -6293,10 +6260,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-aaddd547e38ce88f0398"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -6318,6 +6283,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "August 1–January 1; year not stated.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -6351,6 +6317,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "August 1–January 1; year not stated.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -6376,11 +6343,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-c48b3f2fff18906ef66c",
-        "reviewed-f7bb0b52f26a2134e680"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -6404,6 +6368,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "Fall 2026 regular submissions subject to cap; general windows August 15–November 15 and January 15–April 15.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -6429,10 +6394,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-62198f137d20f75da3e4"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -6455,6 +6418,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": null,
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -6489,6 +6453,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "February 1 to April 1; August 1 to October 1. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -6524,6 +6489,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "August 15 to October 15; February 15 to April 15. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": null,
@@ -6549,12 +6515,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-e0cd2683765497f559e7",
-        "reviewed-8f730aa0215673331ed7",
-        "reviewed-b1aa5dfba0198870083e"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
@@ -6576,6 +6538,7 @@
           "opening_date": null,
           "deadline": null,
           "deadline_text": "Reopens December 15. Windows: December 15 to March 24 (Varies); June 1 to August 31. No year specified.",
+          "inferred_year": null,
           "date_precision": "unspecified",
           "timezone": null,
           "fee": "$3; free for U.S. Indigenous poets; other free pop-up windows.",
@@ -6601,10 +6564,8 @@
       ],
       "lastAttempt": "2026-09-20T21:13:00.419107+00:00",
       "lastSuccess": null,
-      "stale": true,
-      "staleOpportunityIds": [
-        "reviewed-41a3c78c6a1247a02117"
-      ],
+      "stale": false,
+      "staleOpportunityIds": [],
       "outcome": "partial",
       "warnings": [
         "Guidelines reviewed through chat browsing. Partial coverage: some requirements or live portal availability remain unverified."
